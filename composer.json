@@ -5,7 +5,7 @@
         "php",
         "swoole"
     ],
-    "homepage": "https://gitee.com/drz666/swoole-worker",
+    "homepage": "https://github.com/361keji/swoole-worker",
     "license": "Apache-2.0",
     "require": {
         "php": ">=7.2",
